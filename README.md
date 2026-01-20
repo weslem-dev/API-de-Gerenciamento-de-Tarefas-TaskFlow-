@@ -1,17 +1,17 @@
-# 🚀 TaskFlow API
+#  TaskFlow API
 
 API REST moderna para gerenciamento de tarefas, desenvolvida com **.NET 8**.
 
-## 💻 Sobre o Projeto
+##  Sobre o Projeto
 O TaskFlow é um backend simplificado para controle de afazeres. O objetivo deste projeto foi aplicar conceitos de **Minimal APIs** e documentação automática com **Swagger**.
 
-## 🛠 Tecnologias
+##  Tecnologias
 - **C#**
 - **.NET 8**
 - **ASP.NET Core**
 - **Swagger/OpenAPI** (Para documentação)
 
-## ⚙️ Como executar
+##  Como executar
 1. Tenha o SDK do .NET 8 instalado.
 2. Clone o repositório.
 3. Execute `dotnet run` no terminal.
